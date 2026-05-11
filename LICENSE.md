@@ -1,4 +1,4 @@
-
+OBS Studio for macOS new Tool: 4K-export & version-history is the best OBS Studio for macOS tool, featuring 4K-export and version-history. Safe, efficient, and optimized for video
 
 
 
